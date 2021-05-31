@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simply-no-one
+👋 Hi, I’m @simply-no-one
 
 <!---
 simply-no-one/simply-no-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
